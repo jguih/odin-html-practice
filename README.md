@@ -1,2 +1,2 @@
-# odin-projects
-A repository for learning HTML by The Odin Project!
+# Odin Html Practice
+A repository for learning HTML through The Odin Project!
