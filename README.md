@@ -1,3 +1,2 @@
 # odin-projects
-A repository for all The Odin Project projects!
-Hello Odin!
+A repository for learning HTML by The Odin Project!
